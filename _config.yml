@@ -1,0 +1,24 @@
+title: Beaming Girl
+description: Personal thoughts and reflections
+author: Beaming Girl
+email: ""
+url: "https://www.beaminggirl.com"
+baseurl: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Permalink structure
+permalink: /:title/
+
+# Show excerpts on homepage
+show_excerpts: true
