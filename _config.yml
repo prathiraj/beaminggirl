@@ -6,7 +6,6 @@ url: "https://www.beaminggirl.com"
 baseurl: ""
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
